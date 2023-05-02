@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/q1"
+        android:title="Motivational"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/q2"
+        android:title="Leadership"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/q3"
+        android:title="Attitude"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/q4"
+        android:title="Nature"
+        app:showAsAction="never"/>
+
+</menu>
